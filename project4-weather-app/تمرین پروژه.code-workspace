@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "تمرین پروژه",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"editor.inlineSuggest.showToolbar": "onHover",
+		"liveServer.settings.multiRootWorkspaceName": "تمرین پروژه"
+	}
+}
